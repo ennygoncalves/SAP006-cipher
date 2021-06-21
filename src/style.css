@@ -1,1 +1,102 @@
-/* css */
+body{
+    background-color: #f2f3f3 ;
+}
+
+#logo{
+    height: 350px;
+    width: 310px;
+}
+
+.top-logo p{
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.top-logo h1{
+    text-align: center;
+    justify-content: center;
+    color: #3b3a36;
+    font-size: 30px;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.about-pic {
+    display: inline-flex;
+    align-content: space-between;
+    width: 82%;
+ 
+}
+
+#txt-about{
+    margin-left: 15%;
+    margin-top: 120px;
+    font-family: 'Merriweather', serif;
+    
+}
+
+
+#photo-one{
+    float: right;
+    height: 450px;
+    width: 370px;
+
+		
+}
+
+fieldset{
+    
+    border: 2px solid #3b3a36;
+    
+}
+
+#encrypted-text{
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    color: #3b3a36;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 30px;
+    width: 60%;
+    height: 190px;
+    
+}
+
+.cripto-buttons{
+    display: inline-flex;
+    margin-bottom: 1%;
+}
+
+
+
+#number-cripto{
+    width: 50px;
+    height: 30px;
+    margin-left: 3px;
+    
+   
+}
+
+#button-one{
+    margin-left: 10px;
+    
+}
+
+#button-two{
+    margin-left: 10px;
+}
+
+.txt-cripto{
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    font ;
+    border-radius: 5px;
+    width: 60%;
+    height: 190px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    border: 1px solid #3b3a36;
+}
+
